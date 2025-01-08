@@ -33,7 +33,7 @@ class Student{
 		System.out.println("Average = "+average);
 	}
 }
-class arrayConstructor{
+class ArrayConstructor{
 	public static void main(String[] args){
 		
 		Scanner sc=new Scanner(System.in);
