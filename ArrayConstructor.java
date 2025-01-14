@@ -1,6 +1,6 @@
 // Question 1: Student Grades Management (Constructors and Arrays)
 // Problem: Create a program to manage student data using arrays and constructors. 
-// • Define a Student class with the following attributes: 
+// • Define a Student  class with the following attributes: 
 // • Name • Roll number • Array of 5 subject marks. 
 // • Use a parameterized constructor to initialize the name, roll number, and marks. 
 // • Write a method calculateAverage() to compute the average marks of a student. 
