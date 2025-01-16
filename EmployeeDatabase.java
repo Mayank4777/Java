@@ -1,7 +1,7 @@
 // Question 4: Sort Employee Salaries (Constructors and Arrays) Problem:
 // Write a program to sort employee data based on their salaries using constructors and arrays.
 // • Define an Employee class with attributes: 
-// • Name • ID • Salary 
+// • Name • ID • Salary  
 // • Use a parameterized constructor to initialize these values. 
 // • Write a method to sort the employees in descending order of salary and display the sorted list.
 // Input Sample: 
