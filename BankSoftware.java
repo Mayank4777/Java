@@ -2,7 +2,7 @@
 // Problem: Create a program  to track the transaction history of a bank account. 
 // • Define a BankAccount class with attributes: 
 // • Account holder name 
-// • Account number 
+// • Account number  
 // • Array of the last 5 transaction amounts (positive for deposits, negative for withdrawals). 
 // • Use a parameterized constructor to initialize the account holder name and number. 
 // • Write methods to: 
